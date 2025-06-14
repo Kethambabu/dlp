@@ -1,5 +1,4 @@
-python_version = "3.10"
-tensorflow==2.14.1  # or a compatible version
+tensorflow==2.14.1
 numpy
 pandas
 scikit-learn
